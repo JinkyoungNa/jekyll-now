@@ -1,9 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: 타이틀 영역
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# 해더
+
+## 헤더2
+
+신기한 블로그! 정마 쉽게 되네!!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
